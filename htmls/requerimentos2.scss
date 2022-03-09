@@ -1,0 +1,29 @@
+$color: #06f;
+
+.color-span {
+  color: $color;
+}
+
+.color-background {
+    border: 1px solid $color; 
+}
+
+.col-12 {
+  .container {
+    .mt-4{
+      #SASS {
+        font-size: 20px;
+      }
+    }
+  }
+}
+
+#sass-text-1 {
+  background-color: aqua;
+  font-size: bolder;
+}
+
+#sass-text-2 {
+  @extend #sass-text-1 ;
+  color: red;
+}

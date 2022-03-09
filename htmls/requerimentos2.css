@@ -1,0 +1,22 @@
+.color-span {
+  color: #06f;
+}
+
+.color-background {
+  border: 1px solid #06f;
+}
+
+.col-12 .container .mt-4 #SASS {
+  font-size: 20px;
+}
+
+#sass-text-1, #sass-text-2 {
+  background-color: aqua;
+  font-size: bolder;
+}
+
+#sass-text-2 {
+  color: red;
+}
+
+/*# sourceMappingURL=requerimentos2.css.map */
